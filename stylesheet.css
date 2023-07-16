@@ -1,0 +1,16 @@
+.nav.nav-pills{
+    display: flex;
+    align-items:center
+}
+.name{
+    font-family: 'Libre Baskerville', serif;
+}
+.header{
+    background-color: #C3F8FF;
+}
+.skills{
+    background-color: #ABD9FF;
+}
+.footer{
+    background-color: #FFF6BF;
+}
